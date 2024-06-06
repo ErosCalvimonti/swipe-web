@@ -13,12 +13,3 @@ burguerClosed.addEventListener("click", () => {
     shadow.classList.remove("visible")
 })
 
-// function toggleNavVisibility() {
-//     if (window.innerWidth >= 1000) {
-//         nav.classList.add("visible")
-//     }
-// }
-
-// toggleNavVisibility()
-
-// window.addEventListener("resize", toggleNavVisibility)
